@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo12",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo12\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo12\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo11",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo11\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo11\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo10",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo10\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo10\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo09",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo09\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo09\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_de_argumentos\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_de_argumentos",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_de_argumentos\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_de_argumentos\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo07",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo07\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo07\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo06",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo06\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo06\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo05",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo05\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo05\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_por_Referencia\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_por_Referencia",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_por_Referencia\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo_Paso_por_Referencia\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo04",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo04\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo04\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo08",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo08\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo08\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo01",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo01\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo01\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo03",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo03\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplo03\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplos02\\main.cpp",
+  "directory": "C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplos02",
+  "command": "clang++ -c \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplos02\\main.cpp\" -o \"C:\\Users\\gPhil\\Documents\\Sesion 1- Ejemplos\\Ejemplos02\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
